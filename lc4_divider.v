@@ -1,7 +1,3 @@
-/* 
-Name: Hao Pan
-Pennkey: haop
-*/
 
 `timescale 1ns / 1ps
 `default_nettype none
