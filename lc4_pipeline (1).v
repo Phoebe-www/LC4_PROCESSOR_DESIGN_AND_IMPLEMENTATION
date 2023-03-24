@@ -1,14 +1,4 @@
-/* Group 45, Members:
-   Hao Pan - Pennkey: haop
-   Siyun Wang - Pennkey: wsiyun
 
-   Lab 4: Pipelined Processor(fully-bypassed)
-
-   lc4_pipeline.v
-   This file contains the top-level module for the LC-4 processor.
-   It instantiates the control unit, register file, ALU, and data memory.
-   It also instantiates the testbench module, which is used to test the processor.
-   Part of code from lab3: lc4_single.v */
 
 `timescale 1ns / 1ps
 
