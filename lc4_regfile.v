@@ -1,9 +1,3 @@
-/* TODO: name and PennKeys of all group members here
- *
- * lc4_regfile.v
- * Implements an 8-register register file parameterized on word size.
- *
- */
 
 `timescale 1ns / 1ps
 
