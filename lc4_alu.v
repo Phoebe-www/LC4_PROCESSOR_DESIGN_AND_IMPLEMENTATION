@@ -1,7 +1,3 @@
-/* 
-Hao Pan - haop
-Siyun Wang - wsiyun
- */
 
 `timescale 1ns / 1ps
 `default_nettype none
